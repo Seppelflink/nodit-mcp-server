@@ -1,0 +1,4 @@
+git clone --recurse-submodules https://github.com/noditlabs/nodit-mcp-server.git
+cd nodit-mcp-server
+npm install
+npm run build
